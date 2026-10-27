@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. CAMPTERRENVI-3 Présentation résultats sous forme de rapport scientifique
+2. GEOMORPII-1 Compréhension processus géomorphologiques de montagne 
+3. PHYSGLOB-2 Apprentissage principes base géophysique 
+4. MODENUME-2 Implémenter, tester et déboguer un code Python 
+5. EXCUCARTGEOM-1 Interpréter et cartographier les formes du relief sur le terrain 
 
 ---
 
@@ -24,9 +24,9 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
-| Compétence 2  |  |  |  |
-|  Compétence 3 |  |  |  |
+| Compétence 1 |PHYSGLOB-2|Exercices et examen |Copie d'exmens et cahier de notes pour les exercices|
+| Compétence 2  |GEOMORII-1|Carte réalisée pendant le camp |Rapport avec la carte rendu après le camp|
+|  Compétence 3 |CAMPTERRENVI-3|Poster de rapport d'excursion |Image des posters  |
 |  Compétence 4 (hors cursus) |  |  |  |
 ---
 
